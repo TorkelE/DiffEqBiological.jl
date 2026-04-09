@@ -36,7 +36,6 @@ Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
 NetworkLayout = "46757867-2c16-5918-afeb-47bfcb05e46a"
 StructuralIdentifiability = "220ca800-aa68-49bb-acd8-6037fa93a544"
 
-
 [extensions]
 CatalystBifurcationKitExtension = "BifurcationKit"
 CatalystCairoMakieExtension = "CairoMakie"
@@ -67,7 +66,7 @@ Parameters = "0.12"
 Reexport = "0.2, 1.0"
 Requires = "1.0"
 RuntimeGeneratedFunctions = "0.5.12"
-SciMLBase = "2.77"
+SciMLBase = "2.77, 3"
 Setfield = "1"
 StructuralIdentifiability = "0.5.11"
 SymbolicUtils = "3.20"
